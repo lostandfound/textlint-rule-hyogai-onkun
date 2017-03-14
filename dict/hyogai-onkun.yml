@@ -1,0 +1,535 @@
+message: 表外音訓
+dict:
+  - fix_form: null
+    supplemental: '表外音訓, 0001, 哀, かな(しい/しむ)'
+    tokens:
+      - surface_form: 哀しい
+        pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        conjugated_form: 基本形
+        basic_form: 哀しい
+        reading: カナシイ
+        pronunciation: カナシイ
+  - fix_form: null
+    supplemental: '表外音訓, 0001, 哀, かな(しい/しむ)'
+    tokens:
+      - surface_form: 哀し
+        pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        conjugated_form: 文語基本形
+        basic_form: 哀しい
+        reading: カナシ
+        pronunciation: カナシ
+  - fix_form: null
+    supplemental: '表外音訓, 0001, 哀, かな(しい/しむ)'
+    tokens:
+      - surface_form: 哀しから
+        pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        conjugated_form: 未然ヌ接続
+        basic_form: 哀しい
+        reading: カナシカラ
+        pronunciation: カナシカラ
+  - fix_form: null
+    supplemental: '表外音訓, 0001, 哀, かな(しい/しむ)'
+    tokens:
+      - surface_form: 哀しかろ
+        pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        conjugated_form: 未然ウ接続
+        basic_form: 哀しい
+        reading: カナシカロ
+        pronunciation: カナシカロ
+  - fix_form: null
+    supplemental: '表外音訓, 0001, 哀, かな(しい/しむ)'
+    tokens:
+      - surface_form: 哀しかっ
+        pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        conjugated_form: 連用タ接続
+        basic_form: 哀しい
+        reading: カナシカッ
+        pronunciation: カナシカッ
+  - fix_form: null
+    supplemental: '表外音訓, 0001, 哀, かな(しい/しむ)'
+    tokens:
+      - surface_form: 哀しく
+        pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        conjugated_form: 連用テ接続
+        basic_form: 哀しい
+        reading: カナシク
+        pronunciation: カナシク
+  - fix_form: null
+    supplemental: '表外音訓, 0001, 哀, かな(しい/しむ)'
+    tokens:
+      - surface_form: 哀しくっ
+        pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        conjugated_form: 連用テ接続
+        basic_form: 哀しい
+        reading: カナシクッ
+        pronunciation: カナシクッ
+  - fix_form: null
+    supplemental: '表外音訓, 0001, 哀, かな(しい/しむ)'
+    tokens:
+      - surface_form: 哀しゅう
+        pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        conjugated_form: 連用ゴザイ接続
+        basic_form: 哀しい
+        reading: カナシュウ
+        pronunciation: カナシュー
+  - fix_form: null
+    supplemental: '表外音訓, 0001, 哀, かな(しい/しむ)'
+    tokens:
+      - surface_form: 哀しゅぅ
+        pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        conjugated_form: 連用ゴザイ接続
+        basic_form: 哀しい
+        reading: カナシュゥ
+        pronunciation: カナシュー
+  - fix_form: null
+    supplemental: '表外音訓, 0001, 哀, かな(しい/しむ)'
+    tokens:
+      - surface_form: 哀しき
+        pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        conjugated_form: 体言接続
+        basic_form: 哀しい
+        reading: カナシキ
+        pronunciation: カナシキ
+  - fix_form: null
+    supplemental: '表外音訓, 0001, 哀, かな(しい/しむ)'
+    tokens:
+      - surface_form: 哀しけれ
+        pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        conjugated_form: 仮定形
+        basic_form: 哀しい
+        reading: カナシケレ
+        pronunciation: カナシケレ
+  - fix_form: null
+    supplemental: '表外音訓, 0001, 哀, かな(しい/しむ)'
+    tokens:
+      - surface_form: 哀しかれ
+        pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        conjugated_form: 命令ｅ
+        basic_form: 哀しい
+        reading: カナシカレ
+        pronunciation: カナシカレ
+  - fix_form: null
+    supplemental: '表外音訓, 0001, 哀, かな(しい/しむ)'
+    tokens:
+      - surface_form: 哀しけりゃ
+        pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        conjugated_form: 仮定縮約１
+        basic_form: 哀しい
+        reading: カナシケリャ
+        pronunciation: カナシケリャ
+  - fix_form: null
+    supplemental: '表外音訓, 0001, 哀, かな(しい/しむ)'
+    tokens:
+      - surface_form: 哀しきゃ
+        pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        conjugated_form: 仮定縮約２
+        basic_form: 哀しい
+        reading: カナシキャ
+        pronunciation: カナシキャ
+  - fix_form: null
+    supplemental: '表外音訓, 0001, 哀, かな(しい/しむ)'
+    tokens:
+      - surface_form: 哀し
+        pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        conjugated_form: ガル接続
+        basic_form: 哀しい
+        reading: カナシ
+        pronunciation: カナシ
+  - fix_form: null
+    supplemental: '表外音訓, 0001, 哀, かな(しい/しむ)'
+    tokens:
+      - surface_form: 哀しみ
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 哀しみ
+        reading: カナシミ
+        pronunciation: カナシミ
+  - fix_form: null
+    supplemental: '表外音訓, 0001, 哀, かな(しい/しむ)'
+    tokens:
+      - surface_form: 哀しむ
+        pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 五段・マ行
+        conjugated_form: 基本形
+        basic_form: 哀しむ
+        reading: カナシム
+        pronunciation: カナシム
+  - fix_form: null
+    supplemental: '表外音訓, 0001, 哀, かな(しい/しむ)'
+    tokens:
+      - surface_form: 哀しま
+        pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 五段・マ行
+        conjugated_form: 未然形
+        basic_form: 哀しむ
+        reading: カナシマ
+        pronunciation: カナシマ
+  - fix_form: null
+    supplemental: '表外音訓, 0001, 哀, かな(しい/しむ)'
+    tokens:
+      - surface_form: 哀しも
+        pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 五段・マ行
+        conjugated_form: 未然ウ接続
+        basic_form: 哀しむ
+        reading: カナシモ
+        pronunciation: カナシモ
+  - fix_form: null
+    supplemental: '表外音訓, 0001, 哀, かな(しい/しむ)'
+    tokens:
+      - surface_form: 哀しみ
+        pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 五段・マ行
+        conjugated_form: 連用形
+        basic_form: 哀しむ
+        reading: カナシミ
+        pronunciation: カナシミ
+  - fix_form: null
+    supplemental: '表外音訓, 0001, 哀, かな(しい/しむ)'
+    tokens:
+      - surface_form: 哀しん
+        pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 五段・マ行
+        conjugated_form: 連用タ接続
+        basic_form: 哀しむ
+        reading: カナシン
+        pronunciation: カナシン
+  - fix_form: null
+    supplemental: '表外音訓, 0001, 哀, かな(しい/しむ)'
+    tokens:
+      - surface_form: 哀しめ
+        pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 五段・マ行
+        conjugated_form: 仮定形
+        basic_form: 哀しむ
+        reading: カナシメ
+        pronunciation: カナシメ
+  - fix_form: null
+    supplemental: '表外音訓, 0001, 哀, かな(しい/しむ)'
+    tokens:
+      - surface_form: 哀しめ
+        pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 五段・マ行
+        conjugated_form: 命令ｅ
+        basic_form: 哀しむ
+        reading: カナシメ
+        pronunciation: カナシメ
+  - fix_form: null
+    supplemental: '表外音訓, 0001, 哀, かな(しい/しむ)'
+    tokens:
+      - surface_form: 哀しみゃ
+        pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 五段・マ行
+        conjugated_form: 仮定縮約１
+        basic_form: 哀しむ
+        reading: カナシミャ
+        pronunciation: カナシミャ
+  - fix_form: null
+    supplemental: '表外音訓, 0002, 愛, いと(しい/しむ/おしい)'
+    tokens:
+      - surface_form: 愛しい
+        pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        conjugated_form: 基本形
+        basic_form: 愛しい
+        reading: イトシイ
+        pronunciation: イトシイ
+  - fix_form: null
+    supplemental: '表外音訓, 0002, 愛, いと(しい/しむ/おしい)'
+    tokens:
+      - surface_form: 愛し
+        pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        conjugated_form: 文語基本形
+        basic_form: 愛しい
+        reading: イトシ
+        pronunciation: イトシ
+  - fix_form: null
+    supplemental: '表外音訓, 0002, 愛, いと(しい/しむ/おしい)'
+    tokens:
+      - surface_form: 愛しから
+        pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        conjugated_form: 未然ヌ接続
+        basic_form: 愛しい
+        reading: イトシカラ
+        pronunciation: イトシカラ
+  - fix_form: null
+    supplemental: '表外音訓, 0002, 愛, いと(しい/しむ/おしい)'
+    tokens:
+      - surface_form: 愛しかろ
+        pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        conjugated_form: 未然ウ接続
+        basic_form: 愛しい
+        reading: イトシカロ
+        pronunciation: イトシカロ
+  - fix_form: null
+    supplemental: '表外音訓, 0002, 愛, いと(しい/しむ/おしい)'
+    tokens:
+      - surface_form: 愛しかっ
+        pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        conjugated_form: 連用タ接続
+        basic_form: 愛しい
+        reading: イトシカッ
+        pronunciation: イトシカッ
+  - fix_form: null
+    supplemental: '表外音訓, 0002, 愛, いと(しい/しむ/おしい)'
+    tokens:
+      - surface_form: 愛しく
+        pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        conjugated_form: 連用テ接続
+        basic_form: 愛しい
+        reading: イトシク
+        pronunciation: イトシク
+  - fix_form: null
+    supplemental: '表外音訓, 0002, 愛, いと(しい/しむ/おしい)'
+    tokens:
+      - surface_form: 愛しくっ
+        pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        conjugated_form: 連用テ接続
+        basic_form: 愛しい
+        reading: イトシクッ
+        pronunciation: イトシクッ
+  - fix_form: null
+    supplemental: '表外音訓, 0002, 愛, いと(しい/しむ/おしい)'
+    tokens:
+      - surface_form: 愛しゅう
+        pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        conjugated_form: 連用ゴザイ接続
+        basic_form: 愛しい
+        reading: イトシュウ
+        pronunciation: イトシュー
+  - fix_form: null
+    supplemental: '表外音訓, 0002, 愛, いと(しい/しむ/おしい)'
+    tokens:
+      - surface_form: 愛しゅぅ
+        pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        conjugated_form: 連用ゴザイ接続
+        basic_form: 愛しい
+        reading: イトシュゥ
+        pronunciation: イトシュー
+  - fix_form: null
+    supplemental: '表外音訓, 0002, 愛, いと(しい/しむ/おしい)'
+    tokens:
+      - surface_form: 愛しき
+        pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        conjugated_form: 体言接続
+        basic_form: 愛しい
+        reading: イトシキ
+        pronunciation: イトシキ
+  - fix_form: null
+    supplemental: '表外音訓, 0002, 愛, いと(しい/しむ/おしい)'
+    tokens:
+      - surface_form: 愛しけれ
+        pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        conjugated_form: 仮定形
+        basic_form: 愛しい
+        reading: イトシケレ
+        pronunciation: イトシケレ
+  - fix_form: null
+    supplemental: '表外音訓, 0002, 愛, いと(しい/しむ/おしい)'
+    tokens:
+      - surface_form: 愛しかれ
+        pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        conjugated_form: 命令ｅ
+        basic_form: 愛しい
+        reading: イトシカレ
+        pronunciation: イトシカレ
+  - fix_form: null
+    supplemental: '表外音訓, 0002, 愛, いと(しい/しむ/おしい)'
+    tokens:
+      - surface_form: 愛しけりゃ
+        pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        conjugated_form: 仮定縮約１
+        basic_form: 愛しい
+        reading: イトシケリャ
+        pronunciation: イトシケリャ
+  - fix_form: null
+    supplemental: '表外音訓, 0002, 愛, いと(しい/しむ/おしい)'
+    tokens:
+      - surface_form: 愛しきゃ
+        pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        conjugated_form: 仮定縮約２
+        basic_form: 愛しい
+        reading: イトシキャ
+        pronunciation: イトシキャ
+  - fix_form: null
+    supplemental: '表外音訓, 0002, 愛, いと(しい/しむ/おしい)'
+    tokens:
+      - surface_form: 愛し
+        pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        conjugated_form: ガル接続
+        basic_form: 愛しい
+        reading: イトシ
+        pronunciation: イトシ
+  - fix_form: null
+    supplemental: '表外音訓, 0002, 愛, いと(しい/しむ/おしい)'
+    tokens:
+      - surface_form: 愛子
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 愛子
+        reading: イトシゴ
+        pronunciation: イトシゴ
+  - fix_form: null
+    supplemental: '表外音訓, 0002, 愛, いと(しい/しむ/おしい)'
+    tokens:
+      - surface_form: 愛し子
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 愛し子
+        reading: イトシゴ
+        pronunciation: イトシゴ
