@@ -15,7 +15,7 @@ tester.run("rule", rule, {
             text: "哀しいことです。",
             errors: [
                 {
-                    message: "表外音訓: \"哀しい\"",
+                    message: "表外音訓: \"哀しい(カナシイ)\"",
                     line: 1,
                     column: 1
                 }
@@ -23,18 +23,35 @@ tester.run("rule", rule, {
         },
         // multiple match
         {
-            text: `愛しいです。
-
-愛しければ私は`,
+            text: `哀しまない
+哀しみます
+哀しむ
+哀しめば
+哀しもう`,
             errors: [
                 {
-                    message: "表外音訓: \"愛しい\"",
+                    message: "表外音訓: \"哀しま(カナシマ)\"",
                     line: 1,
                     column: 1
                 },
                 {
-                    message: "表外音訓: \"愛しけれ\"",
+                    message: "表外音訓: \"哀しみ(カナシミ)\"",
+                    line: 2,
+                    column: 1
+                },
+                {
+                    message: "表外音訓: \"哀しむ(カナシム)\"",
                     line: 3,
+                    column: 1
+                },
+                {
+                    message: "表外音訓: \"哀しめ(カナシメ)\"",
+                    line: 4,
+                    column: 1
+                },
+                {
+                    message: "表外音訓: \"哀しも(カナシモ)\"",
+                    line: 5,
                     column: 1
                 }
             ]
