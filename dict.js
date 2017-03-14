@@ -34,24 +34,36 @@ function readdirPromise(dir){
 
 function createEntry(file){
   return reader.read(file, function (data) {
-  	let entry = {
+    let entry = {
       fix_form: null,
       supplemental: `表外音訓, ${data[0]}, ${data[2]}, ${data[4]}`,
-      tokens: [
-        {
-          surface_form: data[5],
-          pos:          data[9],
-          pos_detail_1: data[10],
-          pos_detail_2: data[11],
-          pos_detail_3: data[12],
-          conjugated_type: data[13],
-          conjugated_form: data[14],
-          basic_form:   data[15],
-          reading:      data[16],
-          pronunciation: data[17]
-        }
-      ]
-  	}
+      tokens: []
+    };
+
+    if (data[9] === '動詞' || data[9] === '形容詞') {
+      entry.tokens[0] = {
+        pos:          data[9],
+        pos_detail_1: data[10],
+        pos_detail_2: data[11],
+        pos_detail_3: data[12],
+        conjugated_type: data[13],
+        basic_form:   data[15],
+      };
+    } else {
+      entry.tokens[0] = {
+        surface_form: data[5],
+        pos:          data[9],
+        pos_detail_1: data[10],
+        pos_detail_2: data[11],
+        pos_detail_3: data[12],
+        conjugated_type: data[13],
+        conjugated_form: data[14],
+        basic_form:   data[15],
+        reading:      data[16],
+        pronunciation: data[17]
+      };
+    }
+
     return entry;
   });
 };
