@@ -9,12 +9,8 @@ const data = yaml.safeLoad(fs.readFileSync(__dirname + "/../dict/hyogai-onkun.ym
 let dictionaries = [];
 
 data.dict.forEach(function (item) {
-  let form = "";
-  item.tokens.forEach(function (token) {
-    form += token.surface_form;
-  });
   dictionaries.push({
-    message: data.message + ": \"" + form + "\"",
+    message: data.message,
     tokens: item.tokens
   });
 });
@@ -34,12 +30,9 @@ function reporter(context, options = {}) {
           results.forEach(function (result) {
             let tokenIndex = result.index;
             let index = getIndexFromTokens(tokenIndex, actualTokens);
-            let ruleError = new RuleError(result.dict.message, {
+            let ruleError = new RuleError(`${result.dict.message}: "${result.tokens[0].surface_form}(${result.tokens[0].reading})"`, {
               index: index,
             });
-            console.log(node);
-            console.log("-----------------------");
-            console.log(result);
             report(node, ruleError);
           });
         });
