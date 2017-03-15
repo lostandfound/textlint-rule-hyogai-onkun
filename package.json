@@ -22,6 +22,10 @@
   "directories": {
     "test": "test"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lostandfound/textlint-rule-hyogai-onkun.git"
+  },
   "author": "Hiroshi Takase",
   "license": "MIT",
   "description": "Check Hyogai Onkun(Kanji reading that has not been approved by Japanese government).",
