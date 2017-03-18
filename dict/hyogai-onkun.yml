@@ -8247,3 +8247,1593 @@ dict:
         basic_form: 況や
         reading: イワンヤ
         pronunciation: イワンヤ
+  - fix_form: null
+    supplemental: '表外音訓, 0400, 峡, かい'
+    tokens:
+      - surface_form: 峡
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 峡
+        reading: カイ
+        pronunciation: カイ
+  - fix_form: null
+    supplemental: '表外音訓, 0401, 狭, さ'
+    tokens:
+      - surface_form: 狭筵
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 狭筵
+        reading: サムシロ
+        pronunciation: サムシロ
+  - fix_form: null
+    supplemental: '表外音訓, 0401, 狭, さ'
+    tokens:
+      - surface_form: 狭霧
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 狭霧
+        reading: サギリ
+        pronunciation: サギリ
+  - fix_form: null
+    supplemental: '表外音訓, 0403, 恐, こわ(い)'
+    tokens:
+      - pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・アウオ段
+        basic_form: 恐い
+  - fix_form: null
+    supplemental: '表外音訓, 0403, 恐, こわ(い)'
+    tokens:
+      - surface_form: 恐恐
+        pos: 副詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 恐恐
+        reading: コワゴワ
+        pronunciation: コワゴワ
+  - fix_form: null
+    supplemental: '表外音訓, 0403, 恐, こわ(い)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 五段・ラ行
+        basic_form: 恐がる
+  - fix_form: null
+    supplemental: '表外音訓, 0405, 脅, おび(える)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 一段
+        basic_form: 脅える
+  - fix_form: null
+    supplemental: '表外音訓, 0406, 強, こわ(い)'
+    tokens:
+      - surface_form: 強もて
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 強もて
+        reading: コワモテ
+        pronunciation: コワモテ
+  - fix_form: null
+    supplemental: '表外音訓, 0406, 強, こわ(い)'
+    tokens:
+      - surface_form: 強意見
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 強意見
+        reading: コワイケン
+        pronunciation: コワイケン
+  - fix_form: null
+    supplemental: '表外音訓, 0406, 強, こわ(い)'
+    tokens:
+      - surface_form: 強持て
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 強持て
+        reading: コワモテ
+        pronunciation: コワモテ
+  - fix_form: null
+    supplemental: '表外音訓, 0406, 強, こわ(い)'
+    tokens:
+      - surface_form: 強談判
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 強談判
+        reading: コワダンパン
+        pronunciation: コワダンパン
+  - fix_form: null
+    supplemental: '表外音訓, 0406, 強, こわ(い)'
+    tokens:
+      - surface_form: 強飯
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 強飯
+        reading: コワメシ
+        pronunciation: コワメシ
+  - fix_form: null
+    supplemental: '表外音訓, 0406, 強, こわ(い)'
+    tokens:
+      - surface_form: 強飯
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 強飯
+        reading: コワイイ
+        pronunciation: コワイー
+  - fix_form: null
+    supplemental: '表外音訓, 0406, 強, こわ(い)'
+    tokens:
+      - surface_form: 強面
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 強面
+        reading: コワオモテ
+        pronunciation: コワオモテ
+  - fix_form: null
+    supplemental: '表外音訓, 0406, 強, こわ(い)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 五段・ラ行
+        basic_form: 強ばる
+  - fix_form: null
+    supplemental: '表外音訓, 0408, 強, したた(か)'
+    tokens:
+      - surface_form: 強か
+        pos: 副詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 強か
+        reading: シタタカ
+        pronunciation: シタタカ
+  - fix_form: null
+    supplemental: '表外音訓, 0408, 強, したた(か)'
+    tokens:
+      - surface_form: 強か
+        pos: 名詞
+        pos_detail_1: 形容動詞語幹
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 強か
+        reading: シタタカ
+        pronunciation: シタタカ
+  - fix_form: null
+    supplemental: '表外音訓, 0408, 強, したた(か)'
+    tokens:
+      - surface_form: 強か者
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 強か者
+        reading: シタタカモノ
+        pronunciation: シタタカモノ
+  - fix_form: null
+    supplemental: '表外音訓, 0409, 郷, さと'
+    tokens:
+      - surface_form: 無何有の郷
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 無何有の郷
+        reading: ムカウノサト
+        pronunciation: ムカウノサト
+  - fix_form: null
+    supplemental: '表外音訓, 0409, 郷, さと'
+    tokens:
+      - surface_form: 郷
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 郷
+        reading: サト
+        pronunciation: サト
+  - fix_form: null
+    supplemental: '表外音訓, 0409, 郷, さと'
+    tokens:
+      - surface_form: 故郷
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 故郷
+        reading: フルサト
+        pronunciation: フルサト
+  - fix_form: null
+    supplemental: '表外音訓, 0410, 競, きお(う)'
+    tokens:
+      - surface_form: 競いはだ
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 競いはだ
+        reading: キオイハダ
+        pronunciation: キオイハダ
+  - fix_form: null
+    supplemental: '表外音訓, 0410, 競, きお(う)'
+    tokens:
+      - surface_form: 競い
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 競い
+        reading: キオイ
+        pronunciation: キオイ
+  - fix_form: null
+    supplemental: '表外音訓, 0410, 競, きお(う)'
+    tokens:
+      - surface_form: 競い肌
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 競い肌
+        reading: キオイハダ
+        pronunciation: キオイハダ
+  - fix_form: null
+    supplemental: '表外音訓, 0410, 競, きお(う)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 五段・タ行
+        basic_form: 競い立つ
+  - fix_form: null
+    supplemental: '表外音訓, 0411, 競, くら(べる)'
+    tokens:
+      - surface_form: 根競べ
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 根競べ
+        reading: コンクラベ
+        pronunciation: コンクラベ
+  - fix_form: null
+    supplemental: '表外音訓, 0411, 競, くら(べる)'
+    tokens:
+      - surface_form: 競べ
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 競べ
+        reading: クラベ
+        pronunciation: クラベ
+  - fix_form: null
+    supplemental: '表外音訓, 0411, 競, くら(べる)'
+    tokens:
+      - surface_form: 腕競べ
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 腕競べ
+        reading: ウデクラベ
+        pronunciation: ウデクラベ
+  - fix_form: null
+    supplemental: '表外音訓, 0411, 競, くら(べる)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 一段
+        basic_form: 競べる
+  - fix_form: null
+    supplemental: '表外音訓, 0414, 仰, ゴウ'
+    tokens:
+      - surface_form: 渇仰
+        pos: 名詞
+        pos_detail_1: サ変接続
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 渇仰
+        reading: カツゴウ
+        pronunciation: カツゴー
+  - fix_form: null
+    supplemental: '表外音訓, 0415, 仰, おっしゃ(る)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 五段・ラ行
+        basic_form: 仰る
+  - fix_form: null
+    supplemental: '表外音訓, 0415, 仰, おっしゃ(る)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 一段
+        basic_form: 仰れる
+  - fix_form: null
+    supplemental: '表外音訓, 0416, 仰, おお(す)'
+    tokens:
+      - surface_form: 仰せ
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 仰せ
+        reading: オオセ
+        pronunciation: オーセ
+  - fix_form: null
+    supplemental: '表外音訓, 0416, 仰, おお(す)'
+    tokens:
+      - surface_form: 仰せごと
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 仰せごと
+        reading: オオセゴト
+        pronunciation: オーセゴト
+  - fix_form: null
+    supplemental: '表外音訓, 0416, 仰, おお(す)'
+    tokens:
+      - surface_form: 仰せ言
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 仰せ言
+        reading: オオセゴト
+        pronunciation: オーセゴト
+  - fix_form: null
+    supplemental: '表外音訓, 0416, 仰, おお(す)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 一段
+        basic_form: 仰せつける
+  - fix_form: null
+    supplemental: '表外音訓, 0416, 仰, おお(す)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 五段・ラ行
+        basic_form: 仰せつかる
+  - fix_form: null
+    supplemental: '表外音訓, 0416, 仰, おお(す)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 一段
+        basic_form: 仰せ付ける
+  - fix_form: null
+    supplemental: '表外音訓, 0416, 仰, おお(す)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 一段
+        basic_form: 仰せる
+  - fix_form: null
+    supplemental: '表外音訓, 0420, 凝, こご(る)'
+    tokens:
+      - surface_form: 煮凝り
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 煮凝り
+        reading: ニコゴリ
+        pronunciation: ニコゴリ
+  - fix_form: null
+    supplemental: '表外音訓, 0420, 凝, こご(る)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 五段・ラ行
+        basic_form: 凝る
+  - fix_form: null
+    supplemental: '表外音訓, 0421, 凝, しこ(り)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 五段・ラ行
+        basic_form: 凝る
+  - fix_form: null
+    supplemental: '表外音訓, 0423, 曲, くせ'
+    tokens:
+      - surface_form: 曲
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 曲
+        reading: クセ
+        pronunciation: クセ
+  - fix_form: null
+    supplemental: '表外音訓, 0423, 曲, くせ'
+    tokens:
+      - surface_form: 曲者
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 曲者
+        reading: クセモノ
+        pronunciation: クセモノ
+  - fix_form: null
+    supplemental: '表外音訓, 0423, 曲, くせ'
+    tokens:
+      - surface_form: 曲事
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 曲事
+        reading: クセゴト
+        pronunciation: クセゴト
+  - fix_form: null
+    supplemental: '表外音訓, 0430, 極, き(める/まる)'
+    tokens:
+      - surface_form: 極め手
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 極め手
+        reading: キメテ
+        pronunciation: キメテ
+  - fix_form: null
+    supplemental: '表外音訓, 0430, 極, き(める/まる)'
+    tokens:
+      - surface_form: 月極
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 月極
+        reading: ツキギメ
+        pronunciation: ツキギメ
+  - fix_form: null
+    supplemental: '表外音訓, 0430, 極, き(める/まる)'
+    tokens:
+      - surface_form: 極めどころ
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 極めどころ
+        reading: キメドコロ
+        pronunciation: キメドコロ
+  - fix_form: null
+    supplemental: '表外音訓, 0430, 極, き(める/まる)'
+    tokens:
+      - surface_form: 極り
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 極り
+        reading: キマリ
+        pronunciation: キマリ
+  - fix_form: null
+    supplemental: '表外音訓, 0430, 極, き(める/まる)'
+    tokens:
+      - surface_form: 極め
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 極め
+        reading: キメ
+        pronunciation: キメ
+  - fix_form: null
+    supplemental: '表外音訓, 0430, 極, き(める/まる)'
+    tokens:
+      - surface_form: 月極め
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 月極め
+        reading: ツキギメ
+        pronunciation: ツキギメ
+  - fix_form: null
+    supplemental: '表外音訓, 0430, 極, き(める/まる)'
+    tokens:
+      - surface_form: 極め所
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 極め所
+        reading: キメドコロ
+        pronunciation: キメドコロ
+  - fix_form: null
+    supplemental: '表外音訓, 0430, 極, き(める/まる)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 五段・マ行
+        basic_form: 極め込む
+  - fix_form: null
+    supplemental: '表外音訓, 0430, 極, き(める/まる)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 一段
+        basic_form: 取り極める
+  - fix_form: null
+    supplemental: '表外音訓, 0430, 極, き(める/まる)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 一段
+        basic_form: 極め付ける
+  - fix_form: null
+    supplemental: '表外音訓, 0432, 均, ひと(しい)'
+    tokens:
+      - pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        basic_form: 均しい
+  - fix_form: null
+    supplemental: '表外音訓, 0433, 均, なら(す)'
+    tokens:
+      - surface_form: 地均し
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 地均し
+        reading: ジナラシ
+        pronunciation: ジナラシ
+  - fix_form: null
+    supplemental: '表外音訓, 0433, 均, なら(す)'
+    tokens:
+      - surface_form: 灰均し
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 灰均し
+        reading: ハイナラシ
+        pronunciation: ハイナラシ
+  - fix_form: null
+    supplemental: '表外音訓, 0433, 均, なら(す)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 五段・サ行
+        basic_form: 均す
+  - fix_form: null
+    supplemental: '表外音訓, 0433, 均, なら(す)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 五段・サ行
+        basic_form: 踏み均す
+  - fix_form: null
+    supplemental: '表外音訓, 0434, 近, コン'
+    tokens:
+      - surface_form: 右近の橘
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 右近の橘
+        reading: ウコンノタチバナ
+        pronunciation: ウコンノタチバナ
+  - fix_form: null
+    supplemental: '表外音訓, 0434, 近, コン'
+    tokens:
+      - surface_form: 右近橘
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 右近橘
+        reading: ウコンノタチバナ
+        pronunciation: ウコンノタチバナ
+  - fix_form: null
+    supplemental: '表外音訓, 0434, 近, コン'
+    tokens:
+      - surface_form: 左近の桜
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 左近の桜
+        reading: サコンノサクラ
+        pronunciation: サコンノサクラ
+  - fix_form: null
+    supplemental: '表外音訓, 0434, 近, コン'
+    tokens:
+      - surface_form: 左近
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 左近
+        reading: サコン
+        pronunciation: サコン
+  - fix_form: null
+    supplemental: '表外音訓, 0434, 近, コン'
+    tokens:
+      - surface_form: 右近
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 右近
+        reading: ウコン
+        pronunciation: ウコン
+  - fix_form: null
+    supplemental: '表外音訓, 0434, 近, コン'
+    tokens:
+      - surface_form: 左近桜
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 左近桜
+        reading: サコンノサクラ
+        pronunciation: サコンノサクラ
+  - fix_form: null
+    supplemental: '表外音訓, 0437, 菌, きのこ'
+    tokens:
+      - surface_form: 菌
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 菌
+        reading: キノコ
+        pronunciation: キノコ
+  - fix_form: null
+    supplemental: '表外音訓, 0439, 勤, いそ(しむ)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 五段・マ行
+        basic_form: 勤しむ
+  - fix_form: null
+    supplemental: '表外音訓, 0443, 銀, しろがね'
+    tokens:
+      - surface_form: 銀
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 銀
+        reading: シロガネ
+        pronunciation: シロガネ
+  - fix_form: null
+    supplemental: '表外音訓, 0445, 具, そな(わる/える)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 一段
+        basic_form: 具える
+  - fix_form: null
+    supplemental: '表外音訓, 0445, 具, そな(わる/える)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 五段・ラ行
+        basic_form: 具わる
+  - fix_form: null
+    supplemental: '表外音訓, 0446, 具, つぶさ(に)'
+    tokens:
+      - surface_form: 具に
+        pos: 副詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 具に
+        reading: ツブサニ
+        pronunciation: ツブサニ
+  - fix_form: null
+    supplemental: '表外音訓, 0448, 空, す(く)'
+    tokens:
+      - surface_form: 空き腹
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 空き腹
+        reading: スキハラ
+        pronunciation: スキハラ
+  - fix_form: null
+    supplemental: '表外音訓, 0448, 空, す(く)'
+    tokens:
+      - surface_form: 空き腹
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 空き腹
+        reading: スキバラ
+        pronunciation: スキバラ
+  - fix_form: null
+    supplemental: '表外音訓, 0448, 空, す(く)'
+    tokens:
+      - surface_form: 空き間風
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 空き間風
+        reading: スキマカゼ
+        pronunciation: スキマカゼ
+  - fix_form: null
+    supplemental: '表外音訓, 0448, 空, す(く)'
+    tokens:
+      - surface_form: 空き間
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 空き間
+        reading: スキマ
+        pronunciation: スキマ
+  - fix_form: null
+    supplemental: '表外音訓, 0448, 空, す(く)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 五段・サ行
+        basic_form: 空かす
+  - fix_form: null
+    supplemental: '表外音訓, 0448, 空, す(く)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 五段・カ行イ音便
+        basic_form: 空く
+  - fix_form: null
+    supplemental: '表外音訓, 0449, 空, うつ(ろ/け)'
+    tokens:
+      - surface_form: 空ろ
+        pos: 名詞
+        pos_detail_1: 形容動詞語幹
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 空ろ
+        reading: ウツロ
+        pronunciation: ウツロ
+  - fix_form: null
+    supplemental: '表外音訓, 0449, 空, うつ(ろ/け)'
+    tokens:
+      - surface_form: 空蝉
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 空蝉
+        reading: ウツセミ
+        pronunciation: ウツセミ
+  - fix_form: null
+    supplemental: '表外音訓, 0449, 空, うつ(ろ/け)'
+    tokens:
+      - surface_form: 空木
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 空木
+        reading: ウツギ
+        pronunciation: ウツギ
+  - fix_form: null
+    supplemental: '表外音訓, 0449, 空, うつ(ろ/け)'
+    tokens:
+      - surface_form: 空穂
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 空穂
+        reading: ウツボ
+        pronunciation: ウツボ
+  - fix_form: null
+    supplemental: '表外音訓, 0451, 空, むな(しい)'
+    tokens:
+      - pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        basic_form: 空しい
+  - fix_form: null
+    supplemental: '表外音訓, 0455, 遇, あ(う)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 五段・ワ行促音便
+        basic_form: 遇う
+  - fix_form: null
+    supplemental: '表外音訓, 0456, 屈, かが(む/める)'
+    tokens:
+      - surface_form: 前屈み
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 前屈み
+        reading: マエカガミ
+        pronunciation: マエカガミ
+  - fix_form: null
+    supplemental: '表外音訓, 0456, 屈, かが(む/める)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 五段・マ行
+        basic_form: 屈む
+  - fix_form: null
+    supplemental: '表外音訓, 0456, 屈, かが(む/める)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 一段
+        basic_form: 屈める
+  - fix_form: null
+    supplemental: '表外音訓, 0457, 繰, ソウ'
+    tokens:
+      - surface_form: 繰糸
+        pos: 名詞
+        pos_detail_1: サ変接続
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 繰糸
+        reading: ソウシ
+        pronunciation: ソーシ
+  - fix_form: null
+    supplemental: '表外音訓, 0458, 訓, キン'
+    tokens:
+      - surface_form: 庭訓
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 庭訓
+        reading: テイキン
+        pronunciation: テイキン
+  - fix_form: null
+    supplemental: '表外音訓, 0461, 薫, た(く)'
+    tokens:
+      - surface_form: 薫物
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 薫物
+        reading: タキモノ
+        pronunciation: タキモノ
+  - fix_form: null
+    supplemental: '表外音訓, 0462, 軍, いくさ'
+    tokens:
+      - surface_form: 勝ち軍
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 勝ち軍
+        reading: カチイクサ
+        pronunciation: カチイクサ
+  - fix_form: null
+    supplemental: '表外音訓, 0462, 軍, いくさ'
+    tokens:
+      - surface_form: 船軍
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 船軍
+        reading: フナイクサ
+        pronunciation: フナイクサ
+  - fix_form: null
+    supplemental: '表外音訓, 0462, 軍, いくさ'
+    tokens:
+      - surface_form: 花軍
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 花軍
+        reading: ハナイクサ
+        pronunciation: ハナイクサ
+  - fix_form: null
+    supplemental: '表外音訓, 0462, 軍, いくさ'
+    tokens:
+      - surface_form: 負け軍
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 負け軍
+        reading: マケイクサ
+        pronunciation: マケイクサ
+  - fix_form: null
+    supplemental: '表外音訓, 0462, 軍, いくさ'
+    tokens:
+      - surface_form: 負軍
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 負軍
+        reading: マケイクサ
+        pronunciation: マケイクサ
+  - fix_form: null
+    supplemental: '表外音訓, 0462, 軍, いくさ'
+    tokens:
+      - surface_form: 夜軍
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 夜軍
+        reading: ヨイクサ
+        pronunciation: ヨイクサ
+  - fix_form: null
+    supplemental: '表外音訓, 0463, 郡, こおり'
+    tokens:
+      - surface_form: 郡
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 郡
+        reading: コオリ
+        pronunciation: コーリ
+  - fix_form: null
+    supplemental: '表外音訓, 0465, 兄, せ'
+    tokens:
+      - surface_form: 兄の君
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 兄の君
+        reading: セノキミ
+        pronunciation: セノキミ
+  - fix_form: null
+    supplemental: '表外音訓, 0465, 兄, せ'
+    tokens:
+      - surface_form: 兄子
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 兄子
+        reading: セコ
+        pronunciation: セコ
+  - fix_form: null
+    supplemental: '表外音訓, 0467, 形, なり'
+    tokens:
+      - surface_form: 二形
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 二形
+        reading: フタナリ
+        pronunciation: フタナリ
+  - fix_form: null
+    supplemental: '表外音訓, 0467, 形, なり'
+    tokens:
+      - surface_form: 弓形
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 弓形
+        reading: ユミナリ
+        pronunciation: ユミナリ
+  - fix_form: null
+    supplemental: '表外音訓, 0467, 形, なり'
+    tokens:
+      - surface_form: 形
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 形
+        reading: ナリ
+        pronunciation: ナリ
+  - fix_form: null
+    supplemental: '表外音訓, 0467, 形, なり'
+    tokens:
+      - surface_form: 杉形
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 杉形
+        reading: スギナリ
+        pronunciation: スギナリ
+  - fix_form: null
+    supplemental: '表外音訓, 0467, 形, なり'
+    tokens:
+      - surface_form: 身形
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 身形
+        reading: ミナリ
+        pronunciation: ミナリ
+  - fix_form: null
+    supplemental: '表外音訓, 0467, 形, なり'
+    tokens:
+      - surface_form: 形振り
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 形振り
+        reading: ナリフリ
+        pronunciation: ナリフリ
+  - fix_form: null
+    supplemental: '表外音訓, 0470, 係, かか(わる)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 五段・ラ行
+        basic_form: 係わる
+  - fix_form: null
+    supplemental: '表外音訓, 0476, 経, キン'
+    tokens:
+      - surface_form: 看経
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 看経
+        reading: カンキン
+        pronunciation: カンキン
+  - fix_form: null
+    supplemental: '表外音訓, 0477, 経, た(つ)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 五段・タ行
+        basic_form: 経つ
+  - fix_form: null
+    supplemental: '表外音訓, 0478, 経, たて'
+    tokens:
+      - surface_form: 経糸
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 経糸
+        reading: タテイト
+        pronunciation: タテイト
+  - fix_form: null
+    supplemental: '表外音訓, 0480, 敬, キョウ'
+    tokens:
+      - surface_form: 無愛敬
+        pos: 名詞
+        pos_detail_1: 形容動詞語幹
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 無愛敬
+        reading: ブアイキョウ
+        pronunciation: ブアイキョー
+  - fix_form: null
+    supplemental: '表外音訓, 0480, 敬, キョウ'
+    tokens:
+      - surface_form: 愛敬
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 愛敬
+        reading: アイキョウ
+        pronunciation: アイキョー
+  - fix_form: null
+    supplemental: '表外音訓, 0480, 敬, キョウ'
+    tokens:
+      - surface_form: 無愛敬
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 無愛敬
+        reading: ブアイキョウ
+        pronunciation: ブアイキョー
+  - fix_form: null
+    supplemental: '表外音訓, 0484, 軽, キン'
+    tokens:
+      - surface_form: 剽軽
+        pos: 名詞
+        pos_detail_1: 形容動詞語幹
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 剽軽
+        reading: ヒョウキン
+        pronunciation: ヒョーキン
+  - fix_form: null
+    supplemental: '表外音訓, 0485, 傾, かし(げる/ぐ)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 五段・ガ行
+        basic_form: 傾ぐ
+  - fix_form: null
+    supplemental: '表外音訓, 0485, 傾, かし(げる/ぐ)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 一段
+        basic_form: 傾げる
+  - fix_form: null
+    supplemental: '表外音訓, 0486, 傾, かた(げる)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 一段
+        basic_form: 傾げる
+  - fix_form: null
+    supplemental: '表外音訓, 0488, 継, まま'
+    tokens:
+      - pos: 形容詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 形容詞・イ段
+        basic_form: 継しい
+  - fix_form: null
+    supplemental: '表外音訓, 0488, 継, まま'
+    tokens:
+      - surface_form: 継母
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 継母
+        reading: ママハハ
+        pronunciation: ママハハ
+  - fix_form: null
+    supplemental: '表外音訓, 0488, 継, まま'
+    tokens:
+      - surface_form: 継粉
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 継粉
+        reading: ママコ
+        pronunciation: ママコ
+  - fix_form: null
+    supplemental: '表外音訓, 0488, 継, まま'
+    tokens:
+      - surface_form: 継親
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 継親
+        reading: ママオヤ
+        pronunciation: ママオヤ
+  - fix_form: null
+    supplemental: '表外音訓, 0488, 継, まま'
+    tokens:
+      - surface_form: 継子
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 継子
+        reading: ママコ
+        pronunciation: ママコ
+  - fix_form: null
+    supplemental: '表外音訓, 0488, 継, まま'
+    tokens:
+      - surface_form: 継子扱い
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 継子扱い
+        reading: ママコアツカイ
+        pronunciation: ママコアツカイ
+  - fix_form: null
+    supplemental: '表外音訓, 0488, 継, まま'
+    tokens:
+      - surface_form: 継父
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 継父
+        reading: ママチチ
+        pronunciation: ママチチ
+  - fix_form: null
+    supplemental: '表外音訓, 0490, 慶, よろこ(ぶ)'
+    tokens:
+      - surface_form: 慶び
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 慶び
+        reading: ヨロコビ
+        pronunciation: ヨロコビ
+  - fix_form: null
+    supplemental: '表外音訓, 0490, 慶, よろこ(ぶ)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 一段
+        basic_form: 慶べる
+  - fix_form: null
+    supplemental: '表外音訓, 0490, 慶, よろこ(ぶ)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 五段・バ行
+        basic_form: 慶ぶ
+  - fix_form: null
+    supplemental: '表外音訓, 0491, 警, キョウ'
+    tokens:
+      - surface_form: 警策
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 警策
+        reading: キョウサク
+        pronunciation: キョーサク
+  - fix_form: null
+    supplemental: '表外音訓, 0493, 警, いまし(める)'
+    tokens:
+      - surface_form: 警め
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 警め
+        reading: イマシメ
+        pronunciation: イマシメ
+  - fix_form: null
+    supplemental: '表外音訓, 0493, 警, いまし(める)'
+    tokens:
+      - pos: 動詞
+        pos_detail_1: 自立
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: 一段
+        basic_form: 警める
+  - fix_form: null
+    supplemental: '表外音訓, 0494, 鶏, とり'
+    tokens:
+      - surface_form: 花鶏
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 花鶏
+        reading: アトリ
+        pronunciation: アトリ
+  - fix_form: null
+    supplemental: '表外音訓, 0494, 鶏, とり'
+    tokens:
+      - surface_form: 鶏
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 鶏
+        reading: トリ
+        pronunciation: トリ
+  - fix_form: null
+    supplemental: '表外音訓, 0495, 迎, ゴウ'
+    tokens:
+      - surface_form: 御来迎
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 御来迎
+        reading: ゴライゴウ
+        pronunciation: ゴライゴー
+  - fix_form: null
+    supplemental: '表外音訓, 0495, 迎, ゴウ'
+    tokens:
+      - surface_form: 来迎
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 来迎
+        reading: ライゴウ
+        pronunciation: ライゴー
+  - fix_form: null
+    supplemental: '表外音訓, 0499, 血, ケチ'
+    tokens:
+      - surface_form: 血脈
+        pos: 名詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 血脈
+        reading: ケチミャク
+        pronunciation: ケチミャク
