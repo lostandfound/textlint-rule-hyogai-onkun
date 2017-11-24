@@ -1,12 +1,14 @@
 # textlint-rule-hyogai-onkun
 
-**Caution Work In Progress**
+**Caution Work In Progress** 
 
 Check Hyogai Onkun(Kanji reading that has not been approved by Japanese government).
 
 表外音訓を検出します。形態素解析を使っています。辞書は随時追加します。
 
 ## Install
+
+**まだnpmにpublishしてません**
 
 Install with [npm](https://www.npmjs.com/):
 
